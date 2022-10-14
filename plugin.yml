@@ -1,0 +1,8 @@
+name: SeVoar
+version: 1.5.0
+authors: [severonub]
+description: SeVoar
+main: dev.severonub.voar.Main
+commands:
+  voar:
+    aliases: [fly]

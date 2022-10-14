@@ -1,0 +1,11 @@
+# PREFIXO DO PLUGIN
+prefix: "&5[&fSeVoar&5] &r"
+
+#SEM PERMISSAO
+no-perm: "&cSem permissão!"
+
+#AO LIGAR O FLY
+ligar-fly: "&aModo de voo ativado"
+
+#AO DESLIGAR O FLY
+desligar-fly: "&cModo de voo desativado"
